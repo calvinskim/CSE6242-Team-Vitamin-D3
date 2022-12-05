@@ -30,7 +30,7 @@ select
 from
     cte1
 where city_state is not null
-and `Xid_oid` NOT IN ('6361bc1cce759c550ed3eb48'
+or `Xid_oid` NOT IN ('6361bc1cce759c550ed3eb48'
 ,'6361bba9ce759c550ed25233'
 ,'6361bba6ce759c550ed24657'
 ,'6361bc12ce759c550ed3c7b8'
