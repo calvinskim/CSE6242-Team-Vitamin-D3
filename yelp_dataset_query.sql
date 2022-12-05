@@ -48,4 +48,3 @@ and `Xid_oid` NOT IN ('6361bc1cce759c550ed3eb48'
 ,'6361bbe3ce759c550ed31d14'
 ,'6361bc31ce759c550ed43703'
 ,'6361bc28ce759c550ed414b5')
-and city_state = 'Philadelphia, PA'
